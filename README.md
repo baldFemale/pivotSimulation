@@ -13,3 +13,5 @@
     * Incorporate into existing business -> more relevant department / random / department with capacity redundancy 
     * Independent 
     * Directly supervised by CEO 
+  * across time  
+    * A similar perspective as Pentland 2020 ?   
